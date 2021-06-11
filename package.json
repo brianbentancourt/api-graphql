@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/brianbentancourt/api-graphql#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.5",
